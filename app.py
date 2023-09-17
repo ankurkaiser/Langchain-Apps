@@ -9,7 +9,8 @@ from langchain.chains import LLMChain, SequentialChain
 from langchain.memory import ConversationBufferMemory
 from langchain.utilities import WikipediaAPIWrapper 
 
-os.environ['OPENAI_API_KEY'] = apikey
+
+os.environ["OPENAI_API_KEY"] = "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"
 
 # App framework
 st.title('🦜🔗 YouTube Script Creator')
