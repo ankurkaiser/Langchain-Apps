@@ -1,5 +1,5 @@
 streamlit
-langchain
+response
 openai
 wikipedia
 chromadb
